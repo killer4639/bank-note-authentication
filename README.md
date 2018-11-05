@@ -1,0 +1,3 @@
+This is an implementation of logistic regression and Gaussian Naive Bayes algorithm for a simple bank note authentication. The dataset can found in this [link](http://archive.ics.uci.edu/ml/datasets/banknote+authentication). 
+
+A comparison graph can be generated using the ```graph.py``` python script. The ```gnb.py``` and ```logistic.py``` contains the classes for gaussian naive bayes and logistic regression respectively. The csv files contain the data along with the labels.
